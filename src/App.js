@@ -26,7 +26,7 @@ const list = [
   },
   {
     task: "Do the laundry",
-    id: 1236,
+    id: 1237,
     completed: false
   }
 ];
