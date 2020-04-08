@@ -1,0 +1,48 @@
+.myApp {
+    
+    max-width: 80%;
+    margin: 160px auto;
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 8px;
+    background-color: rgb(165, 247, 247);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.item.completed {
+    text-decoration: line-through;
+}
+
+.clearBtn {
+    padding: 10px;
+    transition-duration: .4s;
+    margin: 0 auto;
+}
+
+.clearBtn:hover {
+    background: rgb(1, 247, 247);
+    color: white;
+    border: 1px solid white;
+}
+
+.add {
+    margin-left: 10px;
+    transition-duration: .4s;
+}
+
+.add:hover {
+    background: rgb(1, 247, 247);
+    color: white;
+    border: 1px solid white;
+}
+
+button {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
